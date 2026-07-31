@@ -1,3 +1,4 @@
+
 # DeckFX
 Stream Deck Fun
 
@@ -175,6 +176,12 @@ Custom dashboards
 
 🎛 Multi-device Stream Deck support
 
+
+
+<img width="1785" height="1122" alt="4" src="https://github.com/user-attachments/assets/e79b9b6e-2612-4fe1-85be-b4799cf5b18e" />
+<img width="1768" height="1123" alt="3" src="https://github.com/user-attachments/assets/bbad3290-a5cb-4f9c-af11-9044b00b03e6" />
+<img width="1764" height="1122" alt="2" src="https://github.com/user-attachments/assets/15928c81-e85c-41d2-bf30-d25ebcf0ce97" />
+<img width="1797" height="1167" alt="1" src="https://github.com/user-attachments/assets/d999ba7e-8563-4de8-aec1-d127d56a662d" />
 
 🌈 Modern creator-focused interface
 
