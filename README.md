@@ -20,6 +20,9 @@ Alpha blending
 Dynamic lighting
 Camera controls
 Post-processing effects
+
+
+
 🌈 Visual Effects
 Plasma shaders
 Fire effects
@@ -35,6 +38,10 @@ Scanlines
 Chromatic Aberration
 Pixelation
 Noise & Glitch Effects
+
+
+
+
 🎵 Audio Reactive
 Live audio spectrum analyzer
 Waveform visualizer
@@ -46,6 +53,9 @@ Peak detection
 Audio smoothing
 WASAPI loopback capture
 Microphone input support
+
+
+
 🎬 Media Playback
 Video playback
 GIF support
@@ -72,6 +82,9 @@ Device auto detection
 Brightness control
 Device recovery
 Hot-plug support
+
+
+
 ⚡ Performance
 Dirty-key rendering
 Smart frame updates
@@ -81,6 +94,9 @@ Multi-threaded rendering
 Optimized USB transfers
 Configurable FPS
 Low CPU usage
+
+
+
 🎨 Studio Interface
 Modern dark theme
 Live preview
@@ -92,6 +108,9 @@ Built-in performance monitor
 Searchable effect library
 Favorites
 Recent projects
+
+
+
 📂 Scene Management
 Save scenes
 Load scenes
@@ -100,6 +119,9 @@ Theme presets
 Import / Export
 Backup support
 Settings migration
+
+
+
 🔌 Extensible
 Plugin architecture
 Custom renderers
@@ -116,6 +138,9 @@ Optimized rendering pipeline
 Debug tools
 Performance profiling
 Portable mode
+
+
+
 🚀 Designed For
 Streamers
 Content creators
@@ -124,17 +149,33 @@ Developers
 Musicians
 Live productions
 Interactive installations
+
+
 Custom dashboards
+
 ⭐ Highlights
+
 🚀 Real-time graphics engine
+
 🎨 GPU-inspired visual effects
+
 🎵 Audio-reactive visualizations
+
 🎬 Video & GIF playback
+
 🖥 Live desktop capture
+
 ⚡ High-performance rendering pipeline
+
 🔌 Plugin support
+
 💾 Scene & preset management
+
 📊 Built-in performance profiler
+
 🎛 Multi-device Stream Deck support
+
+
 🌈 Modern creator-focused interface
+
 🐍 Built entirely with Python
